@@ -1,0 +1,101 @@
+id,text_snippet,labels
+1,"We love the analytics, but CompetitorX has a cheaper pricing model.",Security
+2,"We love the AI engine, but CompetitorX has a cheaper discount.","Pricing Discussion, Positive"
+3,"We love the data pipeline, but CompetitorY has a cheaper discount.","Positive, Security"
+4,"We love the analytics, but CompetitorZ has a cheaper pricing model.",Positive
+5,"We love the AI engine, but CompetitorZ has a cheaper discount.","Competition, Pricing Discussion"
+6,"We love the AI engine, but CompetitorY has a cheaper renewal cost.","Objection, Pricing Discussion, Security"
+7,"We love the data pipeline, but CompetitorY has a cheaper discount.","Pricing Discussion, Positive"
+8,"We love the AI engine, but CompetitorZ has a cheaper pricing model.",Objection
+9,"We love the analytics, but CompetitorY has a cheaper pricing model.","Positive, Pricing Discussion"
+10,"We love the AI engine, but CompetitorZ has a cheaper discount.","Positive, Competition, Objection"
+11,"We love the analytics, but CompetitorX has a cheaper renewal cost.",Security
+12,"We love the AI engine, but CompetitorZ has a cheaper pricing model.",Objection
+13,"We love the analytics, but CompetitorZ has a cheaper pricing model.","Objection, Competition"
+14,"We love the data pipeline, but CompetitorZ has a cheaper budget.",Pricing Discussion
+15,"We love the data pipeline, but CompetitorZ has a cheaper budget.","Positive, Security, Objection"
+16,"We love the data pipeline, but CompetitorY has a cheaper discount.",Objection
+17,"We love the AI engine, but CompetitorZ has a cheaper budget.","Objection, Pricing Discussion, Security"
+18,"We love the data pipeline, but CompetitorZ has a cheaper budget.","Security, Competition"
+19,"We love the analytics, but CompetitorZ has a cheaper renewal cost.","Pricing Discussion, Security"
+20,"We love the analytics, but CompetitorX has a cheaper renewal cost.",Competition
+21,"We love the data pipeline, but CompetitorX has a cheaper budget.",Security
+22,"We love the analytics, but CompetitorY has a cheaper renewal cost.",Security
+23,"We love the data pipeline, but CompetitorX has a cheaper discount.",Competition
+24,"We love the AI engine, but CompetitorY has a cheaper renewal cost.","Pricing Discussion, Competition, Security"
+25,"We love the AI engine, but CompetitorX has a cheaper renewal cost.","Security, Objection"
+26,"We love the analytics, but CompetitorX has a cheaper renewal cost.",Objection
+27,"We love the analytics, but CompetitorY has a cheaper renewal cost.","Objection, Security, Competition"
+28,"We love the analytics, but CompetitorX has a cheaper pricing model.","Positive, Objection"
+29,"We love the AI engine, but CompetitorZ has a cheaper discount.","Competition, Pricing Discussion, Positive"
+30,"We love the data pipeline, but CompetitorY has a cheaper renewal cost.",Competition
+31,"We love the data pipeline, but CompetitorX has a cheaper discount.","Positive, Objection, Security"
+32,"We love the data pipeline, but CompetitorY has a cheaper budget.","Objection, Positive"
+33,"We love the AI engine, but CompetitorX has a cheaper pricing model.","Pricing Discussion, Objection, Security"
+34,"We love the data pipeline, but CompetitorY has a cheaper budget.","Pricing Discussion, Objection, Positive"
+35,"We love the data pipeline, but CompetitorY has a cheaper budget.","Objection, Security"
+36,"We love the data pipeline, but CompetitorX has a cheaper budget.","Positive, Pricing Discussion"
+37,"We love the analytics, but CompetitorY has a cheaper budget.","Pricing Discussion, Competition"
+38,"We love the analytics, but CompetitorX has a cheaper discount.","Competition, Objection, Security"
+39,"We love the AI engine, but CompetitorY has a cheaper discount.","Positive, Competition"
+40,"We love the data pipeline, but CompetitorY has a cheaper renewal cost.","Positive, Pricing Discussion, Objection"
+41,"We love the analytics, but CompetitorX has a cheaper pricing model.","Competition, Pricing Discussion, Objection"
+42,"We love the data pipeline, but CompetitorZ has a cheaper renewal cost.",Pricing Discussion
+43,"We love the AI engine, but CompetitorZ has a cheaper renewal cost.","Positive, Security"
+44,"We love the data pipeline, but CompetitorY has a cheaper budget.","Objection, Positive, Security"
+45,"We love the data pipeline, but CompetitorY has a cheaper renewal cost.","Positive, Pricing Discussion"
+46,"We love the data pipeline, but CompetitorX has a cheaper discount.",Security
+47,"We love the data pipeline, but CompetitorX has a cheaper budget.","Pricing Discussion, Security"
+48,"We love the analytics, but CompetitorX has a cheaper discount.","Pricing Discussion, Competition"
+49,"We love the data pipeline, but CompetitorZ has a cheaper renewal cost.","Pricing Discussion, Positive, Competition"
+50,"We love the AI engine, but CompetitorX has a cheaper pricing model.","Positive, Pricing Discussion, Security"
+51,"We love the data pipeline, but CompetitorY has a cheaper budget.",Positive
+52,"We love the analytics, but CompetitorX has a cheaper budget.","Objection, Competition, Security"
+53,"We love the data pipeline, but CompetitorZ has a cheaper discount.","Positive, Pricing Discussion, Security"
+54,"We love the data pipeline, but CompetitorZ has a cheaper budget.","Positive, Objection"
+55,"We love the AI engine, but CompetitorX has a cheaper renewal cost.","Objection, Pricing Discussion, Competition"
+56,"We love the AI engine, but CompetitorY has a cheaper discount.",Objection
+57,"We love the analytics, but CompetitorX has a cheaper budget.",Positive
+58,"We love the data pipeline, but CompetitorY has a cheaper pricing model.","Pricing Discussion, Positive"
+59,"We love the AI engine, but CompetitorX has a cheaper budget.",Competition
+60,"We love the data pipeline, but CompetitorY has a cheaper budget.","Positive, Pricing Discussion"
+61,"We love the AI engine, but CompetitorX has a cheaper pricing model.","Pricing Discussion, Objection, Security"
+62,"We love the data pipeline, but CompetitorY has a cheaper renewal cost.","Objection, Competition, Security"
+63,"We love the AI engine, but CompetitorY has a cheaper discount.","Pricing Discussion, Objection"
+64,"We love the data pipeline, but CompetitorZ has a cheaper renewal cost.","Positive, Objection"
+65,"We love the AI engine, but CompetitorZ has a cheaper budget.","Competition, Objection"
+66,"We love the analytics, but CompetitorZ has a cheaper renewal cost.","Objection, Pricing Discussion, Security"
+67,"We love the data pipeline, but CompetitorZ has a cheaper renewal cost.","Pricing Discussion, Objection, Positive"
+68,"We love the AI engine, but CompetitorY has a cheaper renewal cost.",Pricing Discussion
+69,"We love the AI engine, but CompetitorY has a cheaper discount.",Pricing Discussion
+70,"We love the AI engine, but CompetitorZ has a cheaper renewal cost.",Objection
+71,"We love the analytics, but CompetitorZ has a cheaper pricing model.","Objection, Competition, Pricing Discussion"
+72,"We love the data pipeline, but CompetitorX has a cheaper discount.","Security, Positive"
+73,"We love the data pipeline, but CompetitorX has a cheaper pricing model.","Competition, Security, Positive"
+74,"We love the AI engine, but CompetitorY has a cheaper pricing model.",Positive
+75,"We love the data pipeline, but CompetitorY has a cheaper pricing model.","Security, Pricing Discussion"
+76,"We love the data pipeline, but CompetitorY has a cheaper discount.","Objection, Competition, Security"
+77,"We love the AI engine, but CompetitorY has a cheaper pricing model.","Positive, Competition, Objection"
+78,"We love the data pipeline, but CompetitorZ has a cheaper pricing model.","Objection, Competition"
+79,"We love the data pipeline, but CompetitorX has a cheaper pricing model.","Competition, Objection, Security"
+80,"We love the analytics, but CompetitorY has a cheaper discount.",Positive
+81,"We love the data pipeline, but CompetitorZ has a cheaper renewal cost.","Pricing Discussion, Competition"
+82,"We love the AI engine, but CompetitorY has a cheaper pricing model.","Competition, Positive"
+83,"We love the data pipeline, but CompetitorY has a cheaper discount.",Objection
+84,"We love the data pipeline, but CompetitorY has a cheaper budget.","Positive, Objection, Security"
+85,"We love the data pipeline, but CompetitorZ has a cheaper renewal cost.","Positive, Objection"
+86,"We love the analytics, but CompetitorY has a cheaper renewal cost.",Objection
+87,"We love the AI engine, but CompetitorY has a cheaper pricing model.","Positive, Security, Pricing Discussion"
+88,"We love the AI engine, but CompetitorY has a cheaper discount.","Positive, Objection"
+89,"We love the data pipeline, but CompetitorZ has a cheaper pricing model.","Objection, Pricing Discussion, Security"
+90,"We love the data pipeline, but CompetitorX has a cheaper discount.",Positive
+91,"We love the data pipeline, but CompetitorZ has a cheaper discount.","Positive, Pricing Discussion, Security"
+92,"We love the AI engine, but CompetitorY has a cheaper pricing model.","Pricing Discussion, Security, Competition"
+93,"We love the AI engine, but CompetitorZ has a cheaper pricing model.","Objection, Pricing Discussion"
+94,"We love the AI engine, but CompetitorX has a cheaper pricing model.",Competition
+95,"We love the data pipeline, but CompetitorX has a cheaper renewal cost.","Positive, Competition"
+96,"We love the AI engine, but CompetitorY has a cheaper budget.","Security, Objection, Positive"
+97,"We love the analytics, but CompetitorX has a cheaper discount.","Positive, Objection"
+98,"We love the data pipeline, but CompetitorZ has a cheaper discount.",Objection
+99,"We love the AI engine, but CompetitorY has a cheaper renewal cost.","Objection, Security"
+100,"We love the data pipeline, but CompetitorY has a cheaper pricing model.","Pricing Discussion, Positive"
